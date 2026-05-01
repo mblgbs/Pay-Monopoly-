@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+wallet-api/wallet.db
+wallet-api/wallet_test.db
+wallet-web/node_modules/
+wallet-web/.next/
+wallet-web/.env.local
+
